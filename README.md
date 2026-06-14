@@ -3,7 +3,7 @@
 Polyglot systems engineer with multi-decade execution experience spanning bare-metal assembly, compiler construction, custom 3D shader engines, and advanced hardware reverse engineering. I strip away bloated abstraction layers to solve critical performance, memory, and hardware bottlenecks. 
 
 **Operational Style:** Give me the technical constraints, clear the bureaucratic runway, and get out of the way. I dive deep, debug the impossible, and deliver highly optimized, production-ready code.
---- ## 🛠️ Flagship Engineering Gear### 🕹️ Active Tangible Input Device (TID) — Full Hardware/Software Co-Design*Complete academic and practical research project developing an active, wireless prototyping framework for advanced Human-Computer Interaction (HCI) on standard capacitive touchscreens.*
+## 🛠️ Flagship Engineering Gear ### 🕹️ Active Tangible Input Device (TID) — Full Hardware/Software Co-Design*Complete academic and practical research project developing an active, wireless prototyping framework for advanced Human-Computer Interaction (HCI) on standard capacitive touchscreens.*
 * **Full Thesis Documentation:** [Read the Complete PDF](https://krustyland.net)
 
 ┌────────────────────────────────────────────────────────┐
