@@ -7,21 +7,6 @@ Polyglot systems engineer with multi-decade execution experience spanning bare-m
 ### 🕹️ Active Tangible Input Device (TID) — Full Hardware/Software Co-Design*Complete academic and practical research project developing an active, wireless prototyping framework for advanced Human-Computer Interaction (HCI) on standard capacitive touchscreens.*
 **Full Thesis Documentation:** [Read the Complete PDF](https://krustyland.net)
 
-┌────────────────────────────────────────────────────────┐
-│ TOP RING (User Frontend) │
-│ (Steam Trackpad) (Clickable Touchwheel) (LED Ring) │
-└───────────────────────────┬────────────────────────────┘
-│ (SPI / I2C Buses)
-┌───────────────────────────▼────────────────────────────┐
-│ MIDDLE RING (Core Processing) │
-│ (ESP32 Dual-Core) (MPU-6050 IMU) (MAX98357A Amp) │
-└───────────────────────────┬────────────────────────────┘
-│ (Laser Window)
-┌───────────────────────────▼────────────────────────────┐
-│ BOTTOM RING (Screen Interface) │
-│ (Dual TOF Laser Sensors) (Conductive TPU Touch Markers)│
-└────────────────────────────────────────────────────────┘
-
 
 * **Core Processing & Architecture:** Built a star-topology hardware network centered on an **Espressif ESP32 dual-core MCU** running at 240 MHz, utilizing low-power Bluetooth LE for host communication and high-speed SPI/I2C for peripherals. Engineered a multitasking, object-oriented firmware architecture (over 10,000 lines of standard C++) built on the **FreeRTOS kernel** and ESP-IDF, ensuring highly deterministic, non-blocking sensor execution.
 * **Hardware Hacking & Component Integration:** Reused a disassembled **Valve Steam Controller trackpad assembly**, mapping its proprietary 12-pin flex cable pinout to interface natively over a 10 MHz SPI bus with a Pinnacle 1CA027 controller chip.
